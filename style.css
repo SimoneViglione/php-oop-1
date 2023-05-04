@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    margin-top: 2rem;
+}
+
+h3 {
+    color: goldenrod;
+}
+
+h5 {
+    margin: 1rem 0;
+}
+
+.card {
+    height: 300px;
+    width: 500px;
+    margin-left: 1rem;
+}
+
+.genre {
+    border: solid rgb(110, 34, 34) 1px;
+    background-color: black;
+    padding: 5px;
+}
